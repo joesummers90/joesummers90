@@ -1,12 +1,17 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Full-Stack Development on Codecademy
+- 🔭 I’m currently working on an image generator for my tattoo studio website
+- 🤔 I’m looking for help with changing my career into Software Development from Tattooing
+
+
 <!--
 **joesummers90/joesummers90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Full-Stack Development on Codecademy
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
