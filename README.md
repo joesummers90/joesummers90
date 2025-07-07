@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Full-Stack Development on Codecademy
-- 🔭 I’m currently working on an image generator for my tattoo studio website
-- 🤔 I’m looking for help with changing my career into Software Development from Tattooing
+- 🌱 I’m currently learning Full-Stack Development on Codecademy & have recently completed a Software Development Skills Bootcamp
+- 🔭 I’m currently working on a portfolio website to display some small personal projects
+- 🤔 I’m looking for help with changing my career to Software Development
 
 
 <!--
